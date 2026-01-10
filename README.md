@@ -1,6 +1,6 @@
 # 100 Days of Machine Learning – Handwritten Notes
 
-These are my **handwritten learning notes** from the
+These are my **50 page handwritten learning notes** from the
 popular **100 Days of Machine Learning** playlist by **CampusX (Nitish Kumar)**.
 
 > **Note:** These notes are unstructured and follow the exact order of the playlist.  
